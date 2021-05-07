@@ -15,7 +15,7 @@ Contained in the visualisation is, for each user:
 /*
 Define our file name
 */
-var filename = "dummy_tree.csv";
+var filename = "dummy_tree.json";
 var filepath = "../data/" + filename;
 
 /*
@@ -166,7 +166,7 @@ var zoomView = svg.append("rect")
 	.on("click", clickView)
 
 // Add data. Each row represented as a "g" of class "node" inside the svg.
-var data = d3.csv(filepath, function(error, data) {
+var data = d3.json(filepath, function(error, data) {
 
 	if (error) { console.log(error) }
 

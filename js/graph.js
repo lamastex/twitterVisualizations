@@ -4,8 +4,8 @@ This visualisation is a graph of a Twitter network.
 
 *******************************************************************************/
 
-var filepath_links = "../data/dummy_links.csv";
-var filepath_nodes = "../data/dummy_nodes.csv";
+var filepath_links = "../data/dummy_links.json";
+var filepath_nodes = "../data/dummy_nodes.json";
 
 var circleEnlargeConstant = 2;
 var circleClickedStrokeWidth = 5;
@@ -62,9 +62,9 @@ var loading = svg.append("text")
     .text("Loading graph... \n Takes a couple of seconds");
 
 // Read data
-d3.csv(filepath_links, function(error, links) {
+d3.json(filepath_links, function(error, links) {
   if (error) throw error;
-	d3.csv(filepath_nodes, function(error, nodes) {
+	d3.json(filepath_nodes, function(error, nodes) {
 		if (error) throw error;
 
 			// Filter links

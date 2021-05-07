@@ -14,7 +14,7 @@ Contained in the visualisation is:
 *******************************************************************************/
 
 // Specify file name.
-var filename = "dummy_userTimeline.csv";
+var filename = "dummy_userTimeline.json";
 var filepath = "../data/" + filename;
 
 // TODO: Create accessors that acces data in the csv-file instead of
@@ -128,7 +128,7 @@ var yAxis = d3.axisLeft(yScale)
 
 // Read data. Note: file needs to be chronologically structured so that
 // data[0] is newest and data[length - 1] is oldest
-var data = d3.csv(filepath, function(error, data) {
+var data = d3.json(filepath, function(error, data) {
 
 	if (error) throw error;
 
