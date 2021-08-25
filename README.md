@@ -4,6 +4,9 @@ This is a webpage with visualizations of Twitter data using D3. The visualizatio
 
 This is a part of my undergraduate project within [Project MEP](https://lamastex.github.io/scalable-data-science/sds/research/mep/).
 
+Using this project Ammar Aldhahyani extended so that interactive visualizations can run in the browser fornt-end without a back-end server. 
+This project was supported by an internship at Combinet Competence Centre for Data Enginerring Sciences in the Summer of 2021.
+
 # Get started
 
 Requirements: [Node](https://nodejs.org/en/) to run the web server.
