@@ -1,0 +1,146 @@
+.App {
+  text-align: center;
+}
+
+.links line {
+	stroke: #999;
+	stroke-opacity: 1;
+}
+
+.nodes circle {
+	fill: black;
+}
+
+circle.clicked {
+	fill: #1da1f2;
+}
+
+
+circle.clicked {
+	fill: #1da1f2;
+}
+
+#tweet {
+	z-index: 100;
+	position: absolute;
+	left: 80%;
+	height: auto;
+}
+
+
+.hidden {
+	visibility: hidden;
+}
+
+.visible {
+	visibility: visible;
+}
+
+.zoom {
+	cursor: move;
+	fill: none;
+	pointer-events: fill;
+}
+
+.nodes circle {
+	fill: black;
+}
+
+circle.clicked {
+	fill: #1da1f2;
+}
+.visualizations {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	margin: 10vw 0vw 10vw 0vw;
+}
+
+#graph {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	width: 80vw;
+	height: 80vw;
+
+}
+
+#tree {
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	width: 80vw;
+	height: 50vw;
+
+}
+
+#timeline {
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	width: 80vw;
+	height: 50vw;
+
+}
+
+
+.highlight {
+	background-color: yellow;
+  }
+  
+  path, line {
+	fill: none;
+	stroke: black;
+  }
+  
+  .axis {
+	  position:relative;
+	  z-index:1000000;
+  }
+  
+  .axis text {
+	  fill: black;
+	  font-size: 1em;
+  }
+  
+  #userTimelineVisualizationDiv {
+	  width: auto;
+	  height: auto;
+	  position: relative;
+	  align: center;
+  }
+  
+  .title {
+	  fill: black;
+	  font-family: sans-serif;
+	  text-anchor: middle;
+	  text-align: center;
+	  font-size: 1.5em;
+  }
+  
+  .searchField {
+	  font-family: sans-serif;
+  }
+  
+  #tweet {
+	  position: absolute;
+	  left: 60%;
+	  height: auto;
+  }
+
+  #theTweet {
+	  box-shadow: 1px 1px 1px rgb(0, 0, 0, 0.4);
+	  z-index: 10;
+	  position: fixed;
+	  top: 50%;
+	  left: 90%;
+	  transform: translate(-50%, -50%);
+
+  }
+  
