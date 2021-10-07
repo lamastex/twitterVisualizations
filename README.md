@@ -4,41 +4,23 @@ This is a webpage with visualizations of Twitter data using D3. The visualizatio
 
 This is a part of my undergraduate project within [Project MEP](https://lamastex.github.io/scalable-data-science/sds/research/mep/).
 
-Using this project Ammar Aldhahyani extended so that interactive visualizations can run in the browser fornt-end without a back-end server. 
+Using this project Ammar Aldhahyani extended so that interactive visualizations can run in the browser fornt-end without a back-end server.
 This project was supported by an internship at Combinet Competence Centre for Data Enginerring Sciences in the Summer of 2021.
 
 # Get started
 
-Requirements: [Node](https://nodejs.org/en/) to run the web server.
+## Docker environment for project
 
-From the command line:
+```
+###navigate to twitterVisualizations folder
+cd /twitterVisualizations
+
+###then run
+docker-compose -f docker-compose.dev.yaml up
+
+###when it is done open it in localhost:3000 and make sure this port is available
 
 
-1. Download the repository:
-
-    `
-    $ git clone https://github.com/olofbjorck/twitterVisualizations.git
-    `
-
-2. Navigate to the files:
-
-    `
-    $ cd twitterVisualizations
-    `
-
-3. Start the web server (this is where Node is required):
-
-    `
-    $ node server.js
-    `
-
-4. Open the webpage in a browser: 
-    
-    http://localhost:8080/
-
-    **Note:** I've only used and tested it in Chrome.
-    
-    
 If that's working, we're set to add data. Change the dummy files to real data and change the filenames in the JavaScript files.
 
 
@@ -47,7 +29,7 @@ If that's working, we're set to add data. Change the dummy files to real data an
 Note that the code expects csv-files with column names generated from [Project MEP](https://lamastex.github.io/scalable-data-science/sds/research/mep/) code:
 
 
-`userTimeline.csv`: 
+`userTimeline.csv`:
 
 | CurrentTweetDate | CurrentTwID | CurrentTweet | TweetType |
 | --- | --- | --- | --- |
@@ -60,12 +42,13 @@ Note that the code expects csv-files with column names generated from [Project M
 
 `links.csv`:
 
-| source | target | weight | 
+| source | target | weight |
 | --- | --- | --- |
 
 `nodes.csv`: (group is not implemented and thus not really needed)
 
-| id | idNr | weight | group | 
+| id | idNr | weight | group |
 | --- | --- | --- | --- |
 
 
+```
