@@ -16,7 +16,7 @@ This project was supported by an internship at Combinet Competence Centre for Da
 cd /twitterVisualizations
 
 ###then run
-docker-compose -f docker-compose.dev.yaml up
+docker-compose -f docker-compose.dev.yml up
 
 ###when it is done open it in localhost:3000 and make sure this port is available
 
