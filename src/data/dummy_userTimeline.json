@@ -1,0 +1,146 @@
+[
+    {
+        "CurrentTweetDate": "2018-04-26T01:41:03.000+0000",
+        "CurrentTwID": "20",
+        "CurrentTweet": "This is a tweet!",
+        "TweetType": "Original Tweet"
+    },
+    {
+        "CurrentTweetDate": "2018-04-24T17:56:10.000+0000",
+        "CurrentTwID": "21",
+        "CurrentTweet": "This is a retweet!",
+        "TweetType": "ReTweet"
+    },
+    {
+        "CurrentTweetDate": "2018-04-17T00:56:44.000+0000",
+        "CurrentTwID": "22",
+        "CurrentTweet": "This is a quoted tweet!",
+        "TweetType": "Quoted Tweet"
+    },
+    {
+        "CurrentTweetDate": "2018-04-04T11:21:28.000+0000",
+        "CurrentTwID": "23",
+        "CurrentTweet": "This is a reply tweet!",
+        "TweetType": "Reply Tweet"
+    },
+    {
+        "CurrentTweetDate": "2018-04-04T11:20:28.000+0000",
+        "CurrentTwID": "24",
+        "CurrentTweet": "This is a reply tweet!",
+        "TweetType": "Reply Tweet"
+    },
+    {
+        "CurrentTweetDate": "2018-04-04T11:19:28.000+0000",
+        "CurrentTwID": "25",
+        "CurrentTweet": "This is a retweet!",
+        "TweetType": "ReTweet"
+    },
+    {
+        "CurrentTweetDate": "2018-04-03T11:19:28.000+0000",
+        "CurrentTwID": "26",
+        "CurrentTweet": "This is a reply tweet!",
+        "TweetType": "Reply Tweet"
+    },
+    {
+        "CurrentTweetDate": "2018-04-02T11:19:28.000+0000",
+        "CurrentTwID": "27",
+        "CurrentTweet": "This is a retweet!",
+        "TweetType": "ReTweet"
+    },
+    {
+        "CurrentTweetDate": "2018-04-01T11:19:28.000+0000",
+        "CurrentTwID": "28",
+        "CurrentTweet": "This is a reply tweet!",
+        "TweetType": "Reply Tweet"
+    },
+    {
+        "CurrentTweetDate": "2018-03-18T12:22:11.000+0000",
+        "CurrentTwID": "29",
+        "CurrentTweet": "This is a retweet!",
+        "TweetType": "ReTweet"
+    },
+    {
+        "CurrentTweetDate": "2018-03-17T17:11:50.000+0000",
+        "CurrentTwID": "30",
+        "CurrentTweet": "This is a reply tweet!",
+        "TweetType": "Reply Tweet"
+    },
+    {
+        "CurrentTweetDate": "2018-03-16T16:27:06.000+0000",
+        "CurrentTwID": "31",
+        "CurrentTweet": "This is a retweet!",
+        "TweetType": "ReTweet"
+    },
+    {
+        "CurrentTweetDate": "2018-02-12T17:22:11.000+0000",
+        "CurrentTwID": "32",
+        "CurrentTweet": "This is a reply tweet!",
+        "TweetType": "Reply Tweet"
+    },
+    {
+        "CurrentTweetDate": "2018-02-11T17:11:50.000+0000",
+        "CurrentTwID": "33",
+        "CurrentTweet": "This is an original tweet!",
+        "TweetType": "Original Tweet"
+    },
+    {
+        "CurrentTweetDate": "2018-02-10T16:27:06.000+0000",
+        "CurrentTwID": "34",
+        "CurrentTweet": "This is a reply tweet!",
+        "TweetType": "Reply Tweet"
+    },
+    {
+        "CurrentTweetDate": "2018-02-09T12:22:11.000+0000",
+        "CurrentTwID": "35",
+        "CurrentTweet": "This is a reply tweet!",
+        "TweetType": "Reply Tweet"
+    },
+    {
+        "CurrentTweetDate": "2018-02-08T17:11:50.000+0000",
+        "CurrentTwID": "36",
+        "CurrentTweet": "This is a quoted tweet!",
+        "TweetType": "Quoted Tweet"
+    },
+    {
+        "CurrentTweetDate": "2018-02-07T16:27:06.000+0000",
+        "CurrentTwID": "37",
+        "CurrentTweet": "This is a quoted tweet!",
+        "TweetType": "Quoted Tweet"
+    },
+    {
+        "CurrentTweetDate": "2018-02-06T12:22:11.000+0000",
+        "CurrentTwID": "38",
+        "CurrentTweet": "This is a reply tweet!",
+        "TweetType": "Reply Tweet"
+    },
+    {
+        "CurrentTweetDate": "2018-02-05T17:11:50.000+0000",
+        "CurrentTwID": "39",
+        "CurrentTweet": "This is a quoted tweet!",
+        "TweetType": "Quoted Tweet"
+    },
+    {
+        "CurrentTweetDate": "2018-02-04T16:27:06.000+0000",
+        "CurrentTwID": "40",
+        "CurrentTweet": "This is a reply tweet!",
+        "TweetType": "Reply Tweet"
+    },
+    {
+        "CurrentTweetDate": "2018-02-03T12:22:11.000+0000",
+        "CurrentTwID": "41",
+        "CurrentTweet": "This is a quoted tweet!",
+        "TweetType": "Quoted Tweet"
+    },
+    {
+        "CurrentTweetDate": "2018-02-02T17:11:50.000+0000",
+        "CurrentTwID": "42",
+        "CurrentTweet": "This is a reply tweet!",
+        "TweetType": "Reply Tweet"
+    },
+    {
+        "CurrentTweetDate": "2018-02-01T16:27:06.000+0000",
+        "CurrentTwID": "43",
+        "CurrentTweet": "This is an original tweet!",
+        "TweetType": "Original Tweet"
+    }
+]

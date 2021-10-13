@@ -1,0 +1,47 @@
+[
+    {
+        "source": "a",
+        "target": "b",
+        "weight": "20"
+    },
+    {
+        "source": "a",
+        "target": "c",
+        "weight": "200"
+    },
+    {
+        "source": "a",
+        "target": "d",
+        "weight": "15"
+    },
+    {
+        "source": "a",
+        "target": "e",
+        "weight": "30"
+    },
+    {
+        "source": "a",
+        "target": "f",
+        "weight": "20"
+    },
+    {
+        "source": "a",
+        "target": "g",
+        "weight": "20"
+    },
+    {
+        "source": "b",
+        "target": "g",
+        "weight": "20"
+    },
+    {
+        "source": "c",
+        "target": "g",
+        "weight": "40"
+    },
+    {
+        "source": "f",
+        "target": "c",
+        "weight": "80"
+    }
+]

@@ -1,0 +1,210 @@
+[
+    {
+        "UserID": "12",
+        "UserName": "a",
+        "ScreenName": "a",
+        "followersCount": "936",
+        "NrOfRetweets": "5",
+        "NrOfRetweeters": "5"
+    },
+    {
+        "UserID": "13",
+        "UserName": "b",
+        "ScreenName": "b",
+        "followersCount": "3888",
+        "NrOfRetweets": "181",
+        "NrOfRetweeters": "45"
+    },
+    {
+        "UserID": "14",
+        "UserName": "c",
+        "ScreenName": "c",
+        "followersCount": "1437",
+        "NrOfRetweets": "17",
+        "NrOfRetweeters": "7"
+    },
+    {
+        "UserID": "15",
+        "UserName": "d",
+        "ScreenName": "d",
+        "followersCount": "3672",
+        "NrOfRetweets": "112",
+        "NrOfRetweeters": "34"
+    },
+    {
+        "UserID": "16",
+        "UserName": "e",
+        "ScreenName": "e",
+        "followersCount": "2191",
+        "NrOfRetweets": "232",
+        "NrOfRetweeters": "50"
+    },
+    {
+        "UserID": "17",
+        "UserName": "f",
+        "ScreenName": "f",
+        "followersCount": "1293",
+        "NrOfRetweets": "137",
+        "NrOfRetweeters": "30"
+    },
+    {
+        "UserID": "18",
+        "UserName": "g",
+        "ScreenName": "g",
+        "followersCount": "609",
+        "NrOfRetweets": "12",
+        "NrOfRetweeters": "8"
+    },
+    {
+        "UserID": "19",
+        "UserName": "h",
+        "ScreenName": "h",
+        "followersCount": "486",
+        "NrOfRetweets": "2",
+        "NrOfRetweeters": "2"
+    },
+    {
+        "UserID": "20",
+        "UserName": "i",
+        "ScreenName": "i",
+        "followersCount": "35235",
+        "NrOfRetweets": "335",
+        "NrOfRetweeters": "97"
+    },
+    {
+        "UserID": "21",
+        "UserName": "j",
+        "ScreenName": "j",
+        "followersCount": "547",
+        "NrOfRetweets": "96",
+        "NrOfRetweeters": "44"
+    },
+    {
+        "UserID": "22",
+        "UserName": "k",
+        "ScreenName": "k",
+        "followersCount": "1970",
+        "NrOfRetweets": "365",
+        "NrOfRetweeters": "57"
+    },
+    {
+        "UserID": "23",
+        "UserName": "l",
+        "ScreenName": "l",
+        "followersCount": "12705",
+        "NrOfRetweets": "609",
+        "NrOfRetweeters": "120"
+    },
+    {
+        "UserID": "24",
+        "UserName": "m",
+        "ScreenName": "m",
+        "followersCount": "4191",
+        "NrOfRetweets": "48",
+        "NrOfRetweeters": "7"
+    },
+    {
+        "UserID": "25",
+        "UserName": "n",
+        "ScreenName": "n",
+        "followersCount": "4759",
+        "NrOfRetweets": "11",
+        "NrOfRetweeters": "8"
+    },
+    {
+        "UserID": "26",
+        "UserName": "o",
+        "ScreenName": "o",
+        "followersCount": "2125",
+        "NrOfRetweets": "302",
+        "NrOfRetweeters": "80"
+    },
+    {
+        "UserID": "27",
+        "UserName": "p",
+        "ScreenName": "p",
+        "followersCount": "1486",
+        "NrOfRetweets": "155",
+        "NrOfRetweeters": "68"
+    },
+    {
+        "UserID": "28",
+        "UserName": "q",
+        "ScreenName": "q",
+        "followersCount": "12652",
+        "NrOfRetweets": "425",
+        "NrOfRetweeters": "149"
+    },
+    {
+        "UserID": "29",
+        "UserName": "r",
+        "ScreenName": "r",
+        "followersCount": "613",
+        "NrOfRetweets": "16",
+        "NrOfRetweeters": "15"
+    },
+    {
+        "UserID": "30",
+        "UserName": "s",
+        "ScreenName": "s",
+        "followersCount": "1292",
+        "NrOfRetweets": "16",
+        "NrOfRetweeters": "13"
+    },
+    {
+        "UserID": "31",
+        "UserName": "t",
+        "ScreenName": "t",
+        "followersCount": "1104",
+        "NrOfRetweets": "30",
+        "NrOfRetweeters": "16"
+    },
+    {
+        "UserID": "32",
+        "UserName": "u",
+        "ScreenName": "u",
+        "followersCount": "1748",
+        "NrOfRetweets": "27",
+        "NrOfRetweeters": "14"
+    },
+    {
+        "UserID": "33",
+        "UserName": "v",
+        "ScreenName": "v",
+        "followersCount": "1536",
+        "NrOfRetweets": "52",
+        "NrOfRetweeters": "30"
+    },
+    {
+        "UserID": "34",
+        "UserName": "w",
+        "ScreenName": "w",
+        "followersCount": "769",
+        "NrOfRetweets": "70",
+        "NrOfRetweeters": "38"
+    },
+    {
+        "UserID": "35",
+        "UserName": "x",
+        "ScreenName": "x",
+        "followersCount": "582",
+        "NrOfRetweets": "2",
+        "NrOfRetweeters": "2"
+    },
+    {
+        "UserID": "36",
+        "UserName": "y",
+        "ScreenName": "y",
+        "followersCount": "7202",
+        "NrOfRetweets": "2080",
+        "NrOfRetweeters": "249"
+    },
+    {
+        "UserID": "371963297",
+        "UserName": "z",
+        "ScreenName": "z",
+        "followersCount": "3664",
+        "NrOfRetweets": "119",
+        "NrOfRetweeters": "28"
+    }
+]
