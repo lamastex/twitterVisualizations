@@ -1,9 +1,9 @@
 import "./App.css";
-import Tree from "./componants/Tree";
-import Header from "./componants/header/Header";
+import Tree from "./components/Tree";
+import Header from "./components/header/Header";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
-import Graph2 from "./componants/Graph2";
+import Graph2 from "./components/Graph2";
 
 function App() {
   return (
